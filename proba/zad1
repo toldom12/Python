@@ -1,0 +1,2 @@
+cokolwiek=2  #integer ,liczba całkowita
+print(cokolwiek)
